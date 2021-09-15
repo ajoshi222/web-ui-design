@@ -1,0 +1,36 @@
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Hahmlet', serif;
+    }
+    
+    .carousel-item img {
+        width: 100%;
+        height: 100vh;
+    }
+    
+    .navbar-expand-lg .navbar-nav {
+        flex-direction: row;
+        padding-left: 809px;
+    }
+    
+    .about-img {
+        min-width: 100%;
+        max-width: 280%;
+    }
+    
+    .services img {
+        width: 100%;
+        height: 100%;
+    }
+    
+    .offer_style {
+        background: #a6dcef;
+    }
+    
+    .btn-outline-info {
+        color: #0dcaf0;
+        border-color: #0dcaf0;
+        margin-top: 20px;
+    }
